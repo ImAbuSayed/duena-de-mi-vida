@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/duena-de-mi-vida/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Dueña de mi vida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/duena-de-mi-vida/) |
+| **Get License** | [Get License For Dueña de mi vida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/duena-de-mi-vida/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Te veo brillando sola, dueña de la oscuridad
+> Nena, tu mirada tiene mucha gravedad
+> Dime lo que quieres, ven y dime la verdad
+> Que esta noche nos vamos a otra realidad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
